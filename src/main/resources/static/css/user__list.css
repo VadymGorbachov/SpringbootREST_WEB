@@ -1,0 +1,14 @@
+body{background: #333333;}
+table {
+    border-collapse: collapse;
+    border: 0px solid black;
+    color: #f1f1f1;
+    table-align: center;
+}
+
+td {background: #333333;
+    border-bottom: 2px solid lightgray;
+
+    padding: 5px;
+    padding-right: 30px;
+}
